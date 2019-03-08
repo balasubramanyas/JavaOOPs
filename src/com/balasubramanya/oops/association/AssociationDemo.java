@@ -21,7 +21,6 @@ public class AssociationDemo {
 		/**
 		 * One to Many
 		 * One Animal can have many Child
-		 * 
 		 */
 		List<AnimalChild> animalChildren = new ArrayList<AnimalChild>();
 		animalChildren.add(new AnimalChild("ABC"));
